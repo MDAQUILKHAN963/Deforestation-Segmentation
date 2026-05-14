@@ -1,0 +1,27 @@
+# Core Framework
+tensorflow>=2.20
+
+# Satellite Image I/O
+rasterio>=1.3
+netCDF4>=1.6
+
+# Augmentation (framework-agnostic)
+albumentations>=1.3
+
+# Visualization & Analysis
+matplotlib>=3.7
+seaborn>=0.12
+earthpy>=0.9
+tqdm>=4.65
+
+# Experiment Tracking (optional)
+wandb>=0.15
+
+# Demo App
+gradio>=4.0
+
+# Utilities
+numpy>=1.24
+scikit-learn>=1.3
+Pillow>=9.5
+opencv-python-headless>=4.8

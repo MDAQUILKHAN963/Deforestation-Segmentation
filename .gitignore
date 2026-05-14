@@ -1,0 +1,23 @@
+# Environments
+venv/
+env/
+.env
+
+# Cache
+__pycache__/
+*.pyc
+
+# Data & Results
+data/
+results/
+*.keras
+*.h5
+*.hdf5
+*.pkl
+
+# Logs
+logs/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
